@@ -1,0 +1,16 @@
+*.white_purple{color:white;background:#E200A9;
+               font-size=36px;font-weight=bold;
+               text-align=center;}
+*.white_blue{color:white;background:#99B4D1;}
+*.white_lblue{color:white;background:#A5C5E4;}
+*.white_silver{color:white;background:Silver;}
+*.center_text{text-align:center;}
+table{font-family=微軟正黑體,標楷體,新細明體;
+      border:#E200A9 2px solid;
+      border-spacing:3;width:70%;}     
+*.bottom_line{border-color:#E200A9;
+       border-left:solid;border-bottom:solid;border-right:solid;
+       border-width:2px;}   
+*.top_line{border-color:#E200A9;
+       border-left:solid;border-top:solid;border-right:solid;
+       border-width:2px;}                  
